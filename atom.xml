@@ -6,7 +6,7 @@
   <link href="http://newzoom.top/atom.xml" rel="self"/>
   
   <link href="http://newzoom.top/"/>
-  <updated>2021-05-08T17:06:42.626Z</updated>
+  <updated>2020-12-09T03:59:04.000Z</updated>
   <id>http://newzoom.top/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://newzoom.top/2021/05/09/README.cn/"/>
+    <id>http://newzoom.top/2021/05/09/README.cn/</id>
+    <published>2021-05-09T09:30:58.557Z</published>
+    <updated>2020-12-09T03:59:04.000Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;pure&quot;&gt;&lt;a href=&quot;#pure&quot; class=&quot;headerlink&quot; title=&quot;pure&quot;&gt;&lt;/a&gt;pure&lt;/h1&gt;&lt;p&gt;A brand new default theme for [&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
+    <link href="http://newzoom.top/2021/05/09/1/"/>
+    <id>http://newzoom.top/2021/05/09/1/</id>
+    <published>2021-05-09T09:29:55.081Z</published>
+    <updated>2021-05-09T09:29:55.081Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
