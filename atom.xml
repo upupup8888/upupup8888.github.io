@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>YiLin</title>
   
   
   <link href="http://newzoom.top/atom.xml" rel="self"/>
   
   <link href="http://newzoom.top/"/>
-  <updated>2020-12-09T03:59:04.000Z</updated>
+  <updated>2021-05-10T04:26:52.395Z</updated>
   <id>http://newzoom.top/</id>
   
   <author>
@@ -18,15 +18,39 @@
   
   <entry>
     <title></title>
+    <link href="http://newzoom.top/2021/05/10/%E5%AE%9E%E9%AA%8C%E5%9B%9B%EF%BC%8C%E4%BA%94%E6%8A%A5%E5%91%8A/"/>
+    <id>http://newzoom.top/2021/05/10/%E5%AE%9E%E9%AA%8C%E5%9B%9B%EF%BC%8C%E4%BA%94%E6%8A%A5%E5%91%8A/</id>
+    <published>2021-05-10T04:26:52.240Z</published>
+    <updated>2021-05-10T04:26:52.395Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;实验四，五报告&lt;/p&gt;
+&lt;p&gt;姓名：孙浩&lt;/p&gt;
+&lt;p&gt;学号：201800203068&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;*实验四*&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;一．实验问题&lt;br&gt;\1. 理解nachos硬盘如何创建；&lt;/p&gt;
+&lt;p&gt;\2. 熟悉查看na</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title></title>
     <link href="http://newzoom.top/2021/05/09/README.cn/"/>
     <id>http://newzoom.top/2021/05/09/README.cn/</id>
     <published>2021-05-09T09:30:58.557Z</published>
-    <updated>2020-12-09T03:59:04.000Z</updated>
+    <updated>2021-05-09T09:43:48.302Z</updated>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;pure&quot;&gt;&lt;a href=&quot;#pure&quot; class=&quot;headerlink&quot; title=&quot;pure&quot;&gt;&lt;/a&gt;pure&lt;/h1&gt;&lt;p&gt;A brand new default theme for [&lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo</summary>
+    <summary type="html">&lt;p&gt;title: 123&lt;/p&gt;
+&lt;h1 id=&quot;pure&quot;&gt;&lt;a href=&quot;#pure&quot; class=&quot;headerlink&quot; title=&quot;pure&quot;&gt;&lt;/a&gt;pure&lt;/h1&gt;&lt;p&gt;A brand new default theme for [&lt;a href=&quot;http</summary>
       
     
     
@@ -62,6 +86,25 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>title</title>
+    <link href="http://newzoom.top/2016/06/01/hexo/"/>
+    <id>http://newzoom.top/2016/06/01/hexo/</id>
+    <published>2016-06-01T15:47:44.000Z</published>
+    <updated>2021-05-10T04:57:31.189Z</updated>
+    
+    
+    
+    
+    <category term="Hexo教程" scheme="http://newzoom.top/categories/Hexo%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="标签1" scheme="http://newzoom.top/tags/%E6%A0%87%E7%AD%BE1/"/>
+    
+    <category term="标签2" scheme="http://newzoom.top/tags/%E6%A0%87%E7%AD%BE2/"/>
     
   </entry>
   
