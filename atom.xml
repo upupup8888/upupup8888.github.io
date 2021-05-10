@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YiLin</title>
+  
+  
+  <link href="http://newzoom.top/atom.xml" rel="self"/>
+  
+  <link href="http://newzoom.top/"/>
+  <updated>2021-05-10T06:20:57.008Z</updated>
+  <id>http://newzoom.top/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>mit.628</title>
+    <link href="http://newzoom.top/2021/05/10/mit-628/"/>
+    <id>http://newzoom.top/2021/05/10/mit-628/</id>
+    <published>2021-05-10T06:03:32.000Z</published>
+    <updated>2021-05-10T06:20:57.008Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;123&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Diary" scheme="http://newzoom.top/categories/Diary/"/>
+    
+    
+    <category term="PS3" scheme="http://newzoom.top/tags/PS3/"/>
+    
+    <category term="Games" scheme="http://newzoom.top/tags/Games/"/>
+    
+  </entry>
+  
+</feed>
